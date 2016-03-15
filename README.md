@@ -14,6 +14,11 @@ a multiple of the block size. HKDF is used to split the user-provided key into
 two keys: one for encryption, and the other for authentication. It is
 implemented using the `Crypto` and `hmac` modules.
 
+Install
+-------
+
+Install using `pip install py-encryption`.
+
 Authors
 ---------
 
